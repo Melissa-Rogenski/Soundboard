@@ -1,0 +1,7 @@
+Executable : C:\Users\mroge\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\mroge\AndroidStudioProjects\Soundboard\app\.cxx\cmake\debug\x86
+native-lib
+jvmArgs : 
+

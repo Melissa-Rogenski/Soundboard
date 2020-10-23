@@ -1,0 +1,2 @@
+com/example/soundboard/BuildConfig.java
+ com.example.soundboard.BuildConfig
